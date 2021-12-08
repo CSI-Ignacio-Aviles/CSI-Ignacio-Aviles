@@ -15,7 +15,7 @@
 - Rolladura de nuez moscada
 <div align="center"
 
-### Procedimientos
+### Procedimientos:
 </div>
      
 1. Meter todos los ingredientes en la licuadora
