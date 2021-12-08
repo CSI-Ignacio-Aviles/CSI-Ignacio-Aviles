@@ -31,3 +31,6 @@
 
 ### Video
 - https://www.youtube.com/watch?v=7VVfVkoNoSg
+
+## Referencias
+- https://www.bizcochosysancochos.com/2017/12/coquito-puertorriqueno-receta-tradicional.html
