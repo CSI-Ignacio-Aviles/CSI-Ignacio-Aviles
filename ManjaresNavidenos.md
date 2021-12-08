@@ -17,3 +17,6 @@
 3. Métalo en la nevera 2 horas antes de servir
 4. Sacarlo y agitarlo bien antes de servirlo
 5. Servirlo en las pequeñas copas
+
+<br>
+<img src="https://assets.dmagstatic.com/wp-content/uploads/2020/12/coquito.png" width="520" height="374" />
