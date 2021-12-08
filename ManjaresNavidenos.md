@@ -29,8 +29,8 @@
 <img src="https://assets.dmagstatic.com/wp-content/uploads/2020/12/coquito.png" width="520" height="374" />
 </div> 
 
-### Video
+## Video
 - https://www.youtube.com/watch?v=7VVfVkoNoSg
 
-## Referencias
+### Referencias
 - https://www.bizcochosysancochos.com/2017/12/coquito-puertorriqueno-receta-tradicional.html
