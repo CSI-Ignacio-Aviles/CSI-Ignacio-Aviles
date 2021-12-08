@@ -17,7 +17,7 @@
 
 ### Procedimientos:
 </div>
-     
+  <br>   
 1. Meter todos los ingredientes en la licuadora
 2. Cuando termine, mételo en un vidrio con tapa
 3. Métalo en la nevera 2 horas antes de servir
