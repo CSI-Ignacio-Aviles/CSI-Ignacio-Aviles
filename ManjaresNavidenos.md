@@ -16,6 +16,7 @@
 <div align="center"
 
 ### Procedimientos:
+     
 </div>
    
 1. Meter todos los ingredientes en la licuadora
